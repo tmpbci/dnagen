@@ -5,7 +5,7 @@ LICENCE : CC NC
 
 A bio-art-fun experiment about serious DNA storage.
 
-website : https://www.dnagene.tk
+website : https://www.dnagen.tk
 
 Curious ones can look at :
 
