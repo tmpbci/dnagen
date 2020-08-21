@@ -1,7 +1,7 @@
-DNAgen v0.1b 
+DNAgen v0.1
 By Sam Neurohack
 
-LICENCE : CC NC
+LICENCE : CC BY NC
 
 A bio-art-fun experiment about serious DNA storage.
 
